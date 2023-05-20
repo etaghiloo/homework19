@@ -12,14 +12,6 @@ import {filimoBox01} from './dataFilimoBox';
 import {filimoBox02} from './dataFilimoBox';
 import {filimoBox03} from './dataFilimoBox';
 import './styleGlobal.css';
-import "./assets/styles/fontawesome/fontawesome.css";
-import "./assets/styles/fontawesome/brands.css";
-import "./assets/styles/fontawesome/regular.css";
-import "./assets/styles/fontawesome/solid.css";
-// import "../public/assets/styles/fontawesome/fontawesome.css";
-// import "../public/assets/styles/fontawesome/brands.css";
-// import "../public/assets/styles/fontawesome/regular.css";
-// import "../public/assets/styles/fontawesome/solid.css";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
