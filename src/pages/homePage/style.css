@@ -1,0 +1,17 @@
+.home h3 {
+    margin: 0 0 100px 0;
+}
+.home a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: #00a18c;
+}
+.home a h5 {
+    margin: 0;
+}
+.home a i {
+    font-size: 0.8rem;
+    padding-top: 5px;
+}
